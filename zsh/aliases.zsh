@@ -1,3 +1,5 @@
 alias ll='ls -la'
-alias lh='ls -lah'
-alias ...='cd ../..'
+alias s="cd .."
+alias ss="cd ../.."
+alias sss="cd ../../.."
+alias ipy="ipython --pylab --colors=Linux"
